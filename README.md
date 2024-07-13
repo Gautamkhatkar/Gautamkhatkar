@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **M.L**
 
-- 💬 Ask me about **Python,Numpy,Pandas,Matplotlib,Seaborn,DBMS,SQL,MongoDb,M.L**
+- 💬 Ask me about **Python | Numpy | Pandas | Matplotlib | Seaborn | DBMS | SQL | MongoDb | M.L**
 
 - 📫 How to reach me **goutamkhkhatkar@gmail.com**
 
