@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python | Numpy | Pandas | Matplotlib | Seaborn | DBMS | SQL | MongoDb | M.L**
 
-- 📫 How to reach me **goutamkhkhatkar@gmail.com**
+- 📫 How to reach me **gautamkhatkar01@gmail.com**
 
 - ⚡ Fun fact **I am funny.**
 
