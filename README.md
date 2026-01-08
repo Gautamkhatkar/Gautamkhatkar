@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gautamkhatkar&label=Profile%20views&color=0e75b6&style=flat" alt="gautamkhatkar" /> </p>
 
-- 🌱 I’m currently learning **M.L**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 💬 Ask me about **Python | Numpy | Pandas | Matplotlib | Seaborn | DBMS | SQL | MongoDb | M.L**
 
