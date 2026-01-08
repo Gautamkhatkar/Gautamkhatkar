@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Agentic AI**
 
-- 💬 Ask me about **Python | Numpy | Pandas | Matplotlib | Seaborn | DBMS | SQL | MongoDb | M.L**
+- 💬 Ask me about **Python | Numpy | Pandas | Matplotlib | Seaborn | DBMS | SQL | MongoDb | M.L | D.L | Agno | N8N | OLLAMA**
 
 - 📫 How to reach me **gautamkhatkar01@gmail.com**
 
